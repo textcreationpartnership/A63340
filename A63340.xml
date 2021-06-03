@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the proceedings of the Common-Hall at the election of officers for the year ensuing held at the Guild-Hall of the city of London, June 24, 1689 : as also the petition of the citizens of London to the Commons of England assmbled in Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63340</idno><idno type="EEBO-CITATION">9061885</idno>
+  <idno type="VID">42361</idno>
+  <idno type="EEBO-PROQUEST">2264215044</idno>
+  
+            <idno type="STC">Wing T2394</idno>
+            <idno type="STC">ESTC R25676</idno>
+            <idno type="OCLC">09061885</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A63340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42361)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1296:45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the proceedings of the Common-Hall at the election of officers for the year ensuing held at the Guild-Hall of the city of London, June 24, 1689 : as also the petition of the citizens of London to the Commons of England assmbled in Parliament.</title>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Larkin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons.</term>
+               <term type="geographic_name">London (England) --  Politics and government.</term>
+               <term type="geographic_name">London (England) --  Officials and employees.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:42361:1"/>
+            <head>A True ACCOUNT OF THE <hi>Proceedings</hi> of the <hi>Common-Hall,</hi> At the Election of OFFICERS for the Year Ensuing, Held at the <hi>Guild</hi>-Hall of the City of <hi>LONDON. June</hi> 24. 1689. AS ALSO <hi>The Petition of the Citizens of</hi> London <hi>to the Commons of</hi> England <hi>Assembled in Parliament.</hi>
+            </head>
+            <p>ABout Eleven a Clock on the said Day, (the Hall being full of the Liveries of the respective Com<g ref="char:EOLhyphen"/>panies) the Lord Mayor and the Court of Aldermen proceed<g ref="char:EOLhyphen"/>ed to the <hi>Hustings,</hi> where after a Procla<g ref="char:EOLhyphen"/>mation for Silence, made by the Common Cryer, there was a Speech made by the Deputy-Recorder, and after him another by the Common Sergeant, both setting forth the occasion of their being met there that Day; and desiring their procedure in the business of the Day, might be carried on with that Unanimity and Prudence, as might both promote their own Honour and Ad<g ref="char:EOLhyphen"/>vantage, and their Majesties Interest: Which Speeches were received with the Ap<g ref="char:EOLhyphen"/>plause of the whole Hall.</p>
+            <p>After which (the Lord Mayor and Court of Aldermen being with-drawn in the Coun<g ref="char:EOLhyphen"/>cil Chamber, and the Two Sheriffs remain<g ref="char:EOLhyphen"/>ing upon the <hi>Hustings</hi>) the Names of the Candidates for Sheriffs were Read; which were, Mr. <hi>Richard Chiswel,</hi> Stationer, Mr. <hi>Francis Child,</hi> Goldsmith, Mr. <hi>Richard Scot,</hi> Salter, Sir <hi>Thomas Lane</hi> Alderman, Cloath-worker, <hi>Christopher Lethelier</hi> Alderman, Mr. <hi>John Hubland,</hi> Grocer, Mr. <hi>John Deagle,</hi> Draper; and some of these being Aldermen, and some Commoners, there arose a Dispute whether the Aldermen should have the Precedency in their Nomi<g ref="char:EOLhyphen"/>nation; or whether they should be Nomi<g ref="char:EOLhyphen"/>nated promiscuously, without any distincti<g ref="char:EOLhyphen"/>on of Aldermen or Commoners: And the Question being put, it was carried for the latter, as the Right of the Hall. Then each Candidate being severally propos'd to the Hall for their Suffrage, <hi>Christopher Lethelier</hi> Esquire, Alderman, and Mr. <hi>John Hubland,</hi> Grocer, were Unanimously Cho<g ref="char:EOLhyphen"/>sen; and by the Sheriffs immediately de<g ref="char:EOLhyphen"/>clared to be duely Elected Sheriffs of <hi>London</hi> and <hi>Middlesex</hi> for the Year Ensuing.</p>
+            <p>In the next place, the Hall proceeded to the Election of a Chamberlain, the Candi<g ref="char:EOLhyphen"/>dates being Sir <hi>Peter Rich</hi> the late Cham<g ref="char:EOLhyphen"/>berlain, Mr. <hi>John Jekyl,</hi> Mr. <hi>Matthew Meri<g ref="char:EOLhyphen"/>ton,</hi> Mr. <hi>Leonard Robinson,</hi> Mr. <hi>Edward Hartwel,</hi> Mr. <hi>Edward Bushel,</hi> Mr. <hi>Benjamin Ducame,</hi> Mr. <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <hi>Rooksby,</hi> who being severally propos'd to the Hall, the Majority appeared to be for Mr. <hi>Leonard Robinson;</hi> which being declared by the Sheriffs, there were some that cryed out, A Poll, a Poll; but the Sheriffs being desirous to save the Citizens that trouble, proposed the put<g ref="char:EOLhyphen"/>ing up the Question a second time, between Sir <hi>Peter Rich,</hi> and Mr. <hi>Leonard Robinson;</hi> to which the Hall having consented, they were both propos'd to the Hall again; and the Majority then evidently appearing to be for Mr. <hi>Leonard Robinson,</hi> he was a se<g ref="char:EOLhyphen"/>cond time declared by the Sheriffs to be duely Elected, and the demand of a Poll was no further insisted on.</p>
+            <p>The Hall then proceeded to the Choice of Bridge-Masters, and Mr. <hi>Thomas Nicholas,</hi> and Mr. <hi>Isaac Puller</hi> (the former Bridge-Masters) were continued.</p>
+            <p>They next proceeded to the Election of Auditors of the Chamber and Bridge-House Accounts, and of them, Mr. <hi>John Morice,</hi> Mr. <hi>Peter Hubland,</hi> and <hi>Ralph Box</hi> Esq; were continued; and for the fourth, <hi>Slingsby Bethel</hi> Esq; and Mr. <hi>Justas Odgar</hi> were Candidates, but the Choice fell upon the former.</p>
+            <p>Last of all, they proceeded to Chuse their Ale-Conners, and the three surviving ones being continued, one <hi>Johnson</hi> was Chosen for the fourth, in the room of him that was Deceased.</p>
+            <p>The Election of Officers being thus over, there was immediately a Petition, (propo<g ref="char:EOLhyphen"/>sed to be Presented to the Honourable the House of Commons) given into the hands of the Common Sergeant, to be Read, for the Approbation of the Hall: And the Question being put, Whether it should be
+<pb facs="tcp:42361:2"/> Read, or not? It was Unanimously carried in the Affirmative; and after it was Read, as Unanimously Approved; which was suf<g ref="char:EOLhyphen"/>ficiently Testified both by several Vollies of Loud Sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Acclam<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ons, and also by their desi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to have it Read again, which was done accordingly, and thereupon their Shouts and Acclamations were again repeat<g ref="char:EOLhyphen"/>ed. Then the Question was put, Who should Present it? And it was carried by the whole Hall, That it should be Present<g ref="char:EOLhyphen"/>ed by the Sheriffs and the Common Serge<g ref="char:EOLhyphen"/>ant, with such other Citizens as the Sheriffs should think fit to accompany them. The Petition it self was as followeth:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition_to_Parliament">
+                        <head>To the Honourable the Commons of <hi>England,</hi> in Parliament Assembled.</head>
+                        <head>The Humble Petition of the Ci<g ref="char:EOLhyphen"/>tizens of <hi>London</hi> in the Common Hall Assembled.</head>
+                        <opener>Most Humbly Sheweth,</opener>
+                        <p>THat the Body Representative of the City of <hi>London,</hi> in Common-Hall Assembled, for the Choice of their Sheriffs, cannot but with all humble Thankfulness acknowledge upon this Occasion, the Infinite Mercy of Almighty God, in his Gifts of Heroick Courage, and Excellent Conduct to His now Majestie; and Wisdom, and Council to your Honours, whereby the Pe<g ref="char:EOLhyphen"/>titioners Right to Elect their Chief Magistrates freely and quietly, hath been wonderfully pre<g ref="char:EOLhyphen"/>served; all their Liberties, and the very Being of Justice, Peace, and Prosperity in the City, de<g ref="char:EOLhyphen"/>pending thereupon.</p>
+                        <p>That by the Gracious Influence of Divine Providence, this City is become very Powerful, and a Strong Bullwark for the Defence of the Pro<g ref="char:EOLhyphen"/>testant Interest, and the Security and Quiet of His now Majesty and the Kingdom; If an Ʋniversal Amity and Ʋnity be preserved amongst the Prote<g ref="char:EOLhyphen"/>stant Citizens, who do equally and perfectly re<g ref="char:EOLhyphen"/>nounce and detest all Communion whatsoever with the Papacy, and the Roman Church, and adhere only to the Authority of the Holy Scriptures of the Old and New-Testament: The Principal Danger impending over our English Church and State, being from the Politick Popish Designs to divide the Protestants as they did heretofore in the beginning of the Reformation, whereby they first subdued and destroyed the <hi>Calvinists,</hi> and then with the like Blood-Thirsty-Cruelty suppres<g ref="char:EOLhyphen"/>sed the <hi>Lutherans,</hi> whom they had deluded to help them in the Destruction of their Protestant Brethren.</p>
+                        <p>Your Petitioners therefore most Humbly Pray, That by the Wisdom and Justice of this Honourable House▪ the Ancient Right of this City freely <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o Elect their Sheriffs, and other Magistrates, may be fully and clearly Vindicated, from all Invasions of it, and Questions concerning it: And for that purpose, That the Bill for Restoring Corporations to their Rights and Privi<g ref="char:EOLhyphen"/>ledges may be perfected, as Your Weighty Affairs will permit.</p>
+                        <p>And in regard of the present Dangerous Conspiracy of the Papists, and their Ac<g ref="char:EOLhyphen"/>complices, against the Protestant Religion, our King and Government, and the Inva<g ref="char:EOLhyphen"/>sion threatned by the French King, where<g ref="char:EOLhyphen"/>by the Ʋnited Force of all the Protestants is most apparently necessary; They pray that our Gracious King may be freed from all Restraints of using His Protestant Subjects, indifferently, in His Military and Civil Services, according to their se<g ref="char:EOLhyphen"/>veral Qualities and Abilities, wherewith God Almighty, Nature, Education and Experience, have endowed them, to that very End, that they might be Ʋseful to their King and Country, and therein serve their God in their Generation.</p>
+                        <closer>
+                           <hi>And Your Petitioners shall always Pray,</hi> &amp;c.
+<dateline>Guild-Hall London <date>June <hi>24. 1689.</hi>
+                              </date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This Petition was the next day (<hi>viz. June</hi> 25.) presented to the Honourable House of Commons, who at first rejected it, for want of being Sign'd; but being af<g ref="char:EOLhyphen"/>terwards sign'd by the Sheriffs and Com<g ref="char:EOLhyphen"/>mon Serjeant, as the sense of the Common-Hall; it was Ordered by the House to be read, which was done accordingly.</p>
+            <p>Thus much was thought necessary to be made publick for general satisfaction; as well to prevent Mis-representations, as to let the World know that the Citizens of <hi>London</hi> can now chuse their own Officers, without running the hazard of being Indi<g ref="char:EOLhyphen"/>cted for Rioters, and are now no more lia<g ref="char:EOLhyphen"/>ble to have Officers Imposed upon them against their Consents: For which valuable Mercy, let us all in the first place return our Unfeigned Thanks to Almighty God, as the Blessed Author of it; and in the next place acknowledge the Goodness of their Gracious Majesties, whom God has made the Glorious Instruments thereof: And for whom therefore we ought all heartily to pray, God Bless King <hi>WILLIAM</hi> and Queen <hi>MARY.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>Licens'd,</hi> June the 29th. 1689.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>George Larkin,</hi> at the <hi>Two Swans</hi> without <hi>Bishopsgate.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
